@@ -1,0 +1,27 @@
+| Function/Feature       | Summary                                                                                   |
+| ---------------------- | ----------------------------------------------------------------------------------------- |
+| Pivot Tables           | Summarize and analyze large data sets with interactive tables.                            |
+| MAX()                  | Returns the largest value in a range.                                                     |
+| MIN()                  | Returns the smallest value in a range.                                                    |
+| IF()                   | Returns one value if a condition is true, another if false.                               |
+| IFS()                  | Checks multiple conditions and returns a value for the first true one.                    |
+| LEN()                  | Returns the number of characters in a text string.                                        |
+| LEFT()                 | Extracts a specified number of characters from the start of a text.                       |
+| RIGHT()                | Extracts a specified number of characters from the end of a text.                         |
+| TEXT()                 | Formats a number or date as text using a specified format.                                |
+| TRIM()                 | Removes all extra spaces from text except single spaces between words.                    |
+| CONCATENATE()          | Joins multiple text strings into one (replaced by TEXTJOIN()/CONCAT() in newer versions). |
+| SUBSTITUTE()           | Replaces specific text within a string with new text.                                     |
+| SUM()                  | Adds all the numbers in a range.                                                          |
+| SUMIF()                | Adds numbers that meet a single condition.                                                |
+| SUMIFS()               | Adds numbers that meet multiple conditions.                                               |
+| COUNT()                | Counts the number of numeric values in a range.                                           |
+| COUNTIF()              | Counts the number of cells that meet a single condition.                                  |
+| COUNTIFS()             | Counts the number of cells that meet multiple conditions.                                 |
+| DAYS()                 | Returns the number of days between two dates.                                             |
+| NETWORKDAYS()          | Returns the number of working days between two dates, excluding weekends and holidays.    |
+| XLOOKUP()              | Searches a range or array and returns a corresponding value, replacing VLOOKUP.           |
+| PROPER()               | Capitalizes the first letter of each word in a text string.                               |
+| Conditional Formatting | Applies formatting to cells based on custom rules or conditions.                          |
+| Charts                 | Visually represent data using various chart types like bar, line, and pie.                |
+
